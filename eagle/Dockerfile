@@ -1,4 +1,4 @@
-FROM openjdk:8u265-jre-slim-buster
+FROM openjdk:8u151-jre-alpine
 
 LABEL maintainer="tsund" \
     email="tsund@qq.com" \
