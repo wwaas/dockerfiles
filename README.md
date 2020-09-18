@@ -13,7 +13,7 @@
 
 - [Apache Jena Fuseki](fuseki/Dockerfile)
 
-- [PHP](php/Dockerfile)
+- [PHP](php)
 
 ## License
 
