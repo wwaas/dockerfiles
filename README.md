@@ -1,9 +1,9 @@
 # Several Dockerfiles
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/tsundcn/dockerfiles.svg"/>
-    <img src="https://img.shields.io/github/repo-size/tsundcn/dockerfiles.svg"/>
-    <img src="https://img.shields.io/github/last-commit/tsundcn/dockerfiles.svg"/>
+    <img src="https://img.shields.io/github/license/shink/dockerfiles.svg"/>
+    <img src="https://img.shields.io/github/repo-size/shink/dockerfiles.svg"/>
+    <img src="https://img.shields.io/github/last-commit/shink/dockerfiles.svg"/>
     <img src="https://img.shields.io/badge/language-dockerfile-384D54.svg">
 </p>
 
