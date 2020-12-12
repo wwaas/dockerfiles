@@ -22,7 +22,7 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v2
         with:
-          context: .
+          context: ./php/7.2.3-fpm
           file: ./php/7.2.3-fpm/Dockerfile
           platforms: linux/amd64
           push: true
